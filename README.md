@@ -1,5 +1,7 @@
-Half Rune
+Half Rune Classic
 =====
+
+Note: This the classic version of the game with a fancy old melon js version
 
 Half Rune is an old project i have. For about 10 years i have this project i would like to finish.It is a classic RPG game.
 
@@ -24,5 +26,7 @@ It will be a sand-box game in chapters in a open world. The game will use a logi
 This is the starting point for a big adventure i hope…
 
 Try it at http://www.megadigo.pt or follow project in http://megadigo.github.com/Porta/
+
+
 
 **megadigo@digosoftProductions**
