@@ -47,9 +47,10 @@ var chestEntity = me.ObjectEntity.extend({
  
     ------ */
    update: function() { 
-		return this.updateme ;
-		// check & update player movement
-		this.updateme = false;
+        // check & update player movement
+        return this.updateme ;
+        //this.updateme = false; 
+        
     },
 
     /* -----

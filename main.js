@@ -28,6 +28,7 @@ var g_resources = [
 	{name: "bar100",		            type: "image",     src: "data/sprites/bar100.png"},
 	{name: "metatiles16x16",            type: "image",	   src: "data/sprites/metatiles16x16.png"},
 	{name: "MAP0101",		            type: "tmx",	   src: "data/MAP0101.tmx"},
+	{name: "MAP0102",		            type: "tmx",	   src: "data/MAP0102.tmx"},
 	{name: "CAVE0101",                  type: "tmx",       src: "data/CAVE0101.tmx"},
 	{name: "heroicdemise",              type: "audio",     src: "data/sounds/",    channel:1},
 	{name: "fs_dirt_a",                 type: "audio",     src: "data/sounds/",    channel:1},
@@ -134,7 +135,7 @@ var jsApp	=
  
 
     // Menu Screen
-    me.state.change(me.state.PLAY,"MAP0101");  
+    me.state.change(me.state.PLAY,"MAP0102");
  
 }
 
