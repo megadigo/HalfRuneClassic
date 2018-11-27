@@ -10,7 +10,8 @@ var portalEntity = me.ObjectEntity.extend({
         this.parent(x, y, settings);
         
         // set props
-        this.type="portal";
+        this.warpto = settings.warpto
+        this.type = "portal";
         this.collidable = true;
         this.status = "stand";
         //animation
